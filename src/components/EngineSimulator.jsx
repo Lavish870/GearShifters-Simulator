@@ -85,7 +85,7 @@ class V10EngineSound {
     this.distortion = this.ctx.createWaveShaper();
     this.distortion.curve = this.makeDistortionCurve(28);
     this.distortion.oversample = '4x';
-
+    
     // Exhaust/cabin bus: gentle compression keeps the synthesized V10 controlled.
     this.compressor = this.ctx.createDynamicsCompressor();
     this.compressor.threshold.value = -18;
