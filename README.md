@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="./public/images/cockpit.png" width="100%" alt="GearShifters Hypercar Cockpit" />
+  <img src="./public/cockpit.png" width="100%" alt="GearShifters Hypercar Cockpit" />
 </p>
 
 <p align="center">
-  <img src="./public/images/mode-selection.png" width="85%" alt="Driving Mode Selection" />
+  <img src="./public/mode-selection.png" width="85%" alt="Driving Mode Selection" />
 </p>
 
 ---
